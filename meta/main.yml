@@ -57,7 +57,7 @@ dependencies:
   - src: https://github.com/xussof/software_docker
     scm: git
     version: master
-    name: software_docker
+    name: xussof.software_docker
 
 
   # List your role dependencies here, one per line. Be sure to remove the '[]' above,
